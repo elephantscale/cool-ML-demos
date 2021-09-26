@@ -11,4 +11,5 @@ Or Launch in Google colab [![Open In Colab](https://colab.research.google.com/as
 
 ### Text
 
+* [Tweet sentiment detection](text/textblob-1-sentiment.ipynb)
 * [Entity detection with Spacy](text/spacy-1-entities.ipynb)
