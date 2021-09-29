@@ -13,3 +13,8 @@ Or Launch in Google colab [![Open In Colab](https://colab.research.google.com/as
 
 * [Tweet sentiment detection](text/textblob-1-sentiment.ipynb)
 * [Entity detection with Spacy](text/spacy-1-entities.ipynb)
+
+## Word2Vec
+
+* [Word2Vec 1 - Intro](text/word2vec-1-intro.ipynb)
+* [Word2Vec 2](text/word2vec-2-pre-trained-models.ipynb)
