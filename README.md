@@ -22,3 +22,4 @@ Or Launch in Google colab [![Open In Colab](https://colab.research.google.com/as
 ## Transformers
 
 * [Text generation with GPT2](transformers/GPT2_text_generation.ipynb)
+* [Question answering with transformers](transformers/transformer_qa.ipynb)
