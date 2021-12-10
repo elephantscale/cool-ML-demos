@@ -1,2 +1,5 @@
 textblob
 spacy
+torch
+transformers
+tensorflow
