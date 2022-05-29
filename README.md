@@ -15,11 +15,12 @@ Launch with Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybi
 
 ### Image Classification
 
-* [CIFAR-10 image classification](image/cnn-cifar.ipynb) using Convolunational Neural Networks (CNN)
+* [Teachable Machine] (image/teachable-machine.md) No-code trainable image classifier
+* [CIFAR-10 image classification](image/cnn-cifar.ipynb) using Convolutional Neural Networks (CNN)
 * [Cats and dogs binary classifier](image/img3-cat-dog-binary-classifier.ipynb)
 * [Reuse saved model from above cat/dog classifier](image/img5-reusing-a-model.ipynb)
 * [Horse or human binary classifier](image/exercise-1-horse-or-human-classifier-binary.ipynb)
-* [Muti classifier on flower images (roses / tulips / sunflowers ...)](image/exercise-2-flowers-multi-classifier.ipynb)
+* [Multi classifier on flower images (roses / tulips / sunflowers ...)](image/exercise-2-flowers-multi-classifier.ipynb)
 
 ---
 
